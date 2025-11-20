@@ -9,4 +9,4 @@ Skills I have masteredThese options include:
 *   Software Design and Architecture, Design System 
 *   SQL, TypeScript
 *   React
-*   [![roadmap.sh](https://roadmap.sh/card/tall/6910bbd8ce70eef65bc81751?variant=dark)](https://roadmap.sh)🤔
+*   [![roadmap.sh](https://roadmap.sh/card/tall/6910bbd8ce70eef65bc81751?variant=dark)](https://roadmap.sh)🤔 
