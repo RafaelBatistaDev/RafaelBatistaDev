@@ -1,11 +1,12 @@
-## Hi there 👋[roadmap.sh/u/rafaelbs](https://roadmap.sh/u/rafaelbs)
+## Hi there 👋DEV - Frontend
 Rafael Batista Técnico em Desenvolvimento de Sistema (Senac) 
 Skills I have masteredThese options include:
 
 *   HTML , CSS, Frontend
-*   Linux, Docker, React
+*   Linux, Docker, Git and GitHub
 *   Java, JavaScript, TypeScript
-*   Git and GitHub, Python, SQL
+*   FrameWorks
+*   React, Vue, Angular
 *   Software Design and Architecture, Design System
 *   [x.com/RafaelBSDev](https://x.com/RafaelBSDev)
 *   Sign up here | [roadmap.sh](https://roadmap.sh/signup?rc=6910bbd8ce70eef65bc81751) roadmap
