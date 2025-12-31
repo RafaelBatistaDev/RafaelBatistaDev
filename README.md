@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Rafael Batista</h1>
   <p align="center">
-    <strong>C# Developer | Full Stack .NET Developer | Cloud & Enterprise Developer</strong>
+    <strong>C# Developer ├── Developer Apps with .NET</strong>
   </p>
 </p>
 
