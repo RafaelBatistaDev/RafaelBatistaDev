@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <a href="https://roadmap.sh/card/wide/692ada3cbd486ea4601f68a9?variant=dark" target="_blank">
+  <a href="https://roadmap.sh/befriend?u=692ada3cbd486ea4601f68a9" target="_blank">
     <img src="https://roadmap.sh/card/wide/692ada3cbd486ea4601f68a9?variant=dark" alt="roadmap.sh" width="100%">
   </a>
 </p>
