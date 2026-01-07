@@ -65,7 +65,7 @@
 <div align="center">
   <a href="https://roadmap.sh/befriend?u=692ada3cbd486ea4601f68a9" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://roadmap.sh/card/wide/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=html%2Caspnet-core" 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=html%2Caspnet-core" 
       alt="roadmap.sh" 
       width="100%" 
       style="max-width: 100%; height: auto;" 
