@@ -63,13 +63,8 @@
 </p>
 
 <div align="center">
-  <a href="[https://roadmap.sh/u/rafaelbs]" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=aspnet-core%2Chtml" 
-      alt="roadmap.sh" 
-      width="100%" 
-      style="max-width: 100%; height: auto;" 
-    />
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank">
+    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=aspnet-core%2Chtml" alt="Meu Roadmap de ASP.NET Core e HTML" width="100%">
   </a>
 </div>
 
