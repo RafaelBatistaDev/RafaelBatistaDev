@@ -63,7 +63,7 @@
 </p>
 
 <div align="center">
-  <a href="https://roadmap.sh/befriend?u=692ada3cbd486ea4601f68a9" target="_blank" rel="noopener noreferrer">
+  <a href="[https://roadmap.sh/u/rafaelbs]" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=aspnet-core%2Chtml" 
       alt="roadmap.sh" 
