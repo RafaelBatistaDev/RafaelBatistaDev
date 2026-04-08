@@ -63,7 +63,9 @@
 </p>
 
 
-  <div align="center" style="display: flex; gap: 10px;">
-    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=ai-agents%2Caspnet-core%2Cai-engineer%2Clinux" alt="Roadmap 1" width="48%">
-    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cpython%2Cclaude-code%2Cvibe-coding%2Chtml%2C" alt="Roadmap 2" width="48%">
+ <div align="center">
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank">
+    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=ai-agents%2Caspnet-core%2Cai-engineer%2Clinux" alt="Roadmap 1" width="45%">
+    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cpython%2Cclaude-code%2Cvibe-coding%2Chtml%2C" alt="Roadmap 2" width="45%">
+  </a>
 </div>
