@@ -61,11 +61,22 @@
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   </a>
 </p>
+<div align="center"> 
 
 
-  <div align="center">
-  <a href="https://roadmap.sh/u/rafaelbs" target="_blank">
-    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=ai-agents%2Caspnet-core%2Cai-engineer%2Clinux" alt="Roadmap 1" width="45%">
-    <img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cpython%2Cclaude-code%2Cvibe-coding%2Chtml" alt="Roadmap 2" width="45%">
+<div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=ai-agents%2Caspnet-core%2Cai-engineer%2Clinux" 
+      alt="Minha trilha de aprendizado - Backend e AI" 
+      style={{ width: '100%', maxWidth: '400px' }}
+    />
+  </a>
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cpython%2Cclaude-code%2Cvibe-coding" 
+      alt="Minha trilha de aprendizado - Frontend e Python" 
+      style={{ width: '100%', maxWidth: '400px' }}
+    />
   </a>
 </div>
