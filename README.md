@@ -74,7 +74,7 @@
   </a>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img 
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cpython%2Cclaude-code%2Cvibe-coding" 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cclaude-code%2Cvibe-coding%C2python" 
       alt="Minha trilha de aprendizado - Frontend - Claude-Code - Vibe-Coding - Python" 
       style={{ width: '100%', maxWidth: '500px' }}
     />
