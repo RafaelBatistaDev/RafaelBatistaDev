@@ -63,7 +63,6 @@
 </p>
 <div align="center"> 
 
-
 <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img 
@@ -80,3 +79,4 @@
     />
   </a>
 </div>
+
