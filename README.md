@@ -61,18 +61,19 @@
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   </a>
 </p>
+
 <div align="center"> 
 <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img 
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cai-agents%2Caspnet-core%2Cai-engineer%2Clinux" 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=s%2Caspnet-core%2Cai-engineer%2Clinux%2Cai-agent" 
       alt="Minha trilha de aprendizado - Backend e AI" 
       style={{ width: '100%', maxWidth: '500px' }}
     />
   </a>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img 
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cclaude-code%2Cvibe-coding%2Cpython" 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cclaude-code%2Cvibe-coding%2Cpython%2Chtml" 
       alt="Minha trilha de aprendizado - Frontend - Claude-Code - Vibe-Coding - Python" 
       style={{ width: '100%', maxWidth: '500px' }}
     />
