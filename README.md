@@ -66,7 +66,7 @@
 <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', flexWrap: 'wrap' }}>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img 
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=s%2Caspnet-core%2Cai-engineer%2Clinux%2Cai-agent" 
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Caspnet-core%2Cai-engineer%2Clinux%2Cai-agent" 
       alt="Minha trilha de aprendizado - Backend e AI" 
       style={{ width: '100%', maxWidth: '500px' }}
     />
