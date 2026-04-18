@@ -79,6 +79,3 @@
     />
   </a>
 </div>
-
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=ai-agents" alt="roadmap.sh"/></a>
