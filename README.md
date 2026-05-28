@@ -65,14 +65,14 @@
 <div align="center">
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Caspnet-core%2Cai-agents%2Clinux%2Cai-engineer"
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Caspnet-core%2Cai-agents%2Cai-engineer%2Clinux"
       alt="Linux • Asp.Net Core • AI-Agents • AI-Engineer"
       width="48%"
     />
   </a>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cclaude-code%2Cvibe-coding%2Cpython%2Chtml"
+      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cclaude-code%2Cvibe-coding%2Chtml%2Cpython"
       alt="Claude-Code • Vibe-Coding • Python • HTML"
       width="48%"
     />
