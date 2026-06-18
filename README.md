@@ -63,18 +63,41 @@
 </p>
 
 <div align="center">
+
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Caspnet-core%2Cai-agents%2Cai-engineer%2Clinux"
-      alt="Linux • Asp.Net Core • AI-Agents • AI-Engineer"
-      width="48%"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cai-agents%2Caspnet-core%2Cai-engineer%2Clinux"
+            alt="Linux • AI-Agents • Asp.Net Core • AI-Engineer"
+            width="48%"
     />
   </a>
+
+  <br/><br/>
+
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-      src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cclaude-code%2Cvibe-coding%2Chtml%2Cpython"
-      alt="Claude-Code • Vibe-Coding • Python • HTML"
-      width="48%"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cclaude-code%2Cvibe-coding%2Cpython"
+            alt="HTML • Claude-Code • Vibe-Coding • Python"
+            width="48%"
     />
   </a>
+    <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cprompt-engineering%2Copenclaw%2Crust%2Ccode-review-best-practices"
+            alt="prompt-engineering • Openclaw • Rust • Code-review-best-practices"
+			width="48%"
+    />
+  </a>
+
+  <br/><br/>
+  
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://img.shields.io/badge/Ver%20perfil%20completo-roadmap.sh-0088FF?style=for-the-badge&logoColor=white"
+            alt="Ver perfil completo no roadmap.sh"
+    />
+  </a>
+  
+  
+
 </div>
