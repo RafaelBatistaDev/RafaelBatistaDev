@@ -76,14 +76,14 @@
 
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cclaude-code%2Cvibe-coding%2Cpython"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cclaude-code%2Cvibe-coding%2Cpython%2Chtml"
             alt="HTML • Claude-Code • Vibe-Coding • Python"
             width="48%"
     />
   </a>
     <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cprompt-engineering%2Copenclaw%2Crust%2Ccode-review-best-practices"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Copenclaw%2Crust%2Ccode-review-best-practices%2Cprompt-engineering"
             alt="prompt-engineering • Openclaw • Rust • Code-review-best-practices"
 			width="48%"
     />
