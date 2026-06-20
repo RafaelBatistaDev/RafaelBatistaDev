@@ -66,7 +66,7 @@
 
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cai-agents%2Caspnet-core%2Cai-engineer%2Clinux"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Caspnet-core%2Cai-engineer%2Clinux%2Cai-agents"
             alt="Linux • AI-Agents • Asp.Net Core • AI-Engineer"
             width="48%"
     />
