@@ -83,7 +83,7 @@
   </a>
     <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Copenclaw%2Crust%2Ccode-review-best-practices%2Cprompt-engineering"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Crust%2Ccode-review-best-practices%2Cprompt-engineering%2Copenclaw"
             alt="prompt-engineering • Openclaw • Rust • Code-review-best-practices"
 			width="48%"
     />
