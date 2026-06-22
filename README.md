@@ -87,7 +87,7 @@
   </a>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Ccss%2Cshell-bash%2Cgit-github%2Cjavascript"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cshell-bash%2Cgit-github%2Cjavascript%2Ccss"
             alt="Javascript • Shell-Bash • CSS • Git-Github"
             width="48%"
     />
