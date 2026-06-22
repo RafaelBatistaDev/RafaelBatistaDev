@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Rafael Batista</h1>
   <p align="center">
-    <strong>Hello, I'm a 🐧Linux Specialist ├── 🤖AI Engineer ├── 💻 Python Developer ├── ✨Viber Code Developer👋</strong>
+    <strong>Hello, I'm a 🐧Linux Specialist ├── 🤖AI Engineer ├── 💻 JavaScript Developer ├── ✨Viber Code Developer👋</strong>
   </p>
 </p>
 
