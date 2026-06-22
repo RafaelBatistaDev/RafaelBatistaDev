@@ -63,7 +63,6 @@
 </p>
 
 <div align="center">
-
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
             src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Caspnet-core%2Cai-engineer%2Clinux%2Cai-agents"
@@ -71,33 +70,63 @@
             width="48%"
     />
   </a>
-
-  <br/><br/>
-
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cclaude-code%2Cvibe-coding%2Cpython%2Chtml"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Ctypescript%2Cnodejs%2Cdocker%2Cleetcode"
+            alt="Typescript • Nodejs • Docker • Leetcode"
+            width="48%"
+    />
+  </a>
+  <br/><br/>
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Chtml%2Cclaude-code%2Cvibe-coding%2Cpython"
             alt="HTML • Claude-Code • Vibe-Coding • Python"
             width="48%"
     />
   </a>
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Ccss%2Cshell-bash%2Cgit-github%2Cjavascript"
+            alt="Javascript • Shell-Bash • CSS • Git-Github"
+            width="48%"
+    />
+  </a>
+  <br/><br/>
     <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
-            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Crust%2Ccode-review-best-practices%2Cprompt-engineering%2Copenclaw"
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Copenclaw%2Ccode-review-best-practices%2Cprompt-engineering%2Crust"
             alt="prompt-engineering • Openclaw • Rust • Code-review-best-practices"
 			width="48%"
     />
   </a>
-
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cfrontend%2Cbackend%2Cfull-stack%2Cux-design"
+            alt="frontend • Backend • Full-stack • Ux-design"
+			width="48%"
+    />
+  </a>
   <br/><br/>
-  
+	<a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cai-red-teaming%2Capi-security-best-practices%2Ccomputer-science%2Cfrontend-beginner"
+            alt="Ai-red-teaming • Api-security-best-practices • Computer-science • Frontend-beginner"
+			width="48%"
+    />
+  </a>
+  <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
+    <img
+            src="https://roadmap.sh/card/tall/692ada3cbd486ea4601f68a9?variant=dark&roadmaps=%2Cbackend-beginner%2Capi-security-best-practices%2Cfrontend-performance-best-practices%2Cbackend-performance-best-practices"
+            alt="Backend-beginner • Api-security-best-practices • Frontend-performance-best-practices • Backend-performance-best-practices"
+			width="48%"
+    />
+  </a>
+  <br/><br/>
   <a href="https://roadmap.sh/u/rafaelbs" target="_blank" rel="noreferrer">
     <img
             src="https://img.shields.io/badge/Ver%20perfil%20completo-roadmap.sh-0088FF?style=for-the-badge&logoColor=white"
             alt="Ver perfil completo no roadmap.sh"
     />
   </a>
-  
-  
-
 </div>
